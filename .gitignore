@@ -1,0 +1,16 @@
+# Intellij
+.idea
+out/
+*.iml
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+ auto-import.
+ *.ipr
+
+# maven
+target
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
